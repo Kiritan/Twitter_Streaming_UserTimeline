@@ -1,1 +1,3 @@
 # Twitter_Streaming_UserTimeline
+Twitterの自分のタイムラインをリアルタイムで取得するやつです。
+過去のつぶやきは取得しないでう。
